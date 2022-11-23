@@ -2,11 +2,24 @@
 
 This project is made with help of a tutorial available on youtube from a channel named Online tutorials
 
-Video Link 
+Video Link : https://youtu.be/m5LvqOVltlA
 
-Webpage Link 
+Webpage Link : https://killertian.github.io/Side-Nav-Bar/
 
 Preview
+
+![image](https://user-images.githubusercontent.com/77867638/203608700-46b7adbe-8890-422b-b507-bad856b31826.png)
+![image](https://user-images.githubusercontent.com/77867638/203608737-24d0d814-d9ea-4ede-8c0d-f36997a5cfd8.png)
+![image](https://user-images.githubusercontent.com/77867638/203608772-abab5a57-f346-42cd-9b08-100f04251bc6.png)
+![image](https://user-images.githubusercontent.com/77867638/203608799-56918e49-3755-42fb-ae78-686c354aaff1.png)
+![image](https://user-images.githubusercontent.com/77867638/203608822-f5fc786a-4532-4dee-a53b-7d2a373464ba.png)
+
+![image](https://user-images.githubusercontent.com/77867638/203608862-af140116-97bf-413d-84d9-5485897771af.png)
+![image](https://user-images.githubusercontent.com/77867638/203608886-d9f0ec8b-a037-4821-90fd-7e870b2b059b.png)
+![image](https://user-images.githubusercontent.com/77867638/203608905-ce87d335-b797-4726-9b2b-1cb8d3c76901.png)
+![image](https://user-images.githubusercontent.com/77867638/203608931-5c7a1abe-b391-4c73-88a8-0aa7c5bce7cb.png)
+![image](https://user-images.githubusercontent.com/77867638/203608956-76a18493-43b1-42f7-96d7-e2ba2d89d4a8.png)
+
 
 # License
 
